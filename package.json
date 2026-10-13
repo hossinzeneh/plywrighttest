@@ -1,0 +1,12 @@
+{
+  "name": "plywrighttest",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^26.6.5",
+    "pdfjs-dist": "^5.4.296"
+  }
+}
